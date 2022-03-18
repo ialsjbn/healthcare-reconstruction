@@ -1,0 +1,26 @@
+﻿ID,Name,hospital,district,lat,lon,Typology,Service,emergency_beds,annual top emergency,annual lower emergency,mu,priority1,priority2,utilization (lam/mu*s),rho,capacity
+5,h. n. alberto sabogal: B1,h. n. alberto sabogal,bellavista,-12.063714,-77.123026,MCF_H1_DNO,emergencia,5,917.25,39612.25,0.3,0.1,4.5,3.084436834,0.8,20
+6,h. n. alberto sabogal: B2,h. n. alberto sabogal,bellavista,-12.063714,-77.123026,UNK,emergencia,5,917.25,39612.25,0.3,0.1,4.5,3.084436834,0.8,20
+7,h. n. alberto sabogal: B3,h. n. alberto sabogal,bellavista,-12.063714,-77.123026,MCF_H1_DNO,emergencia,5,917.25,39612.25,0.3,0.1,4.5,3.084436834,0.8,20
+8,h. n. alberto sabogal: B5,h. n. alberto sabogal,bellavista,-12.063714,-77.123026,MCF_H1_DNO,emergencia,5,917.25,39612.25,0.3,0.1,4.5,3.084436834,0.8,20
+12,h. n. edgardo rebagliati: A,h. n. edgardo rebagliati,jesus maria,-12.079037,-77.040919,LFM_H7_DNOdd,hospitalizacion,48,1333.5,132661,0.3,0.2,15.1,1.06223443,0.8,64
+13,h. n. edgardo rebagliati: C,h. n. edgardo rebagliati,jesus maria,-12.079037,-77.040919,LFM_H7_DNOdd,hospitalizacion,49,1333.5,132661,0.3,0.2,15.1,1.040556177,0.8,64
+15,h. n. guillermo almenara: A5,h. n. guillermo almenara,la victoria,-12.059797,-77.022315,LFM_H3_DNOdd,emergencia,24,3854,112846.5,0.3,0.4,12.9,1.85027429,0.8,56
+17,h. n. guillermo almenara: A8,h. n. guillermo almenara,la victoria,-12.059797,-77.022315,MCF_H1_DNO,emergencia,25,3854,112846.5,0.3,0.4,12.9,1.776263318,0.8,56
+25,h. de emergencias grau: B,h. de emergencias grau,la victoria,-12.058585,-77.030999,LFM_H5_DNOss,emergencia,11,3418,145499,0.3,0.4,16.6,5.151411374,0.8,71
+27,h. luis negreiros: B1,h. luis negreiros,callao,-12.015829,-77.098064,LFM_H3_DNOss,"emergencia, hospitalizacion, cirugia",3,2243.5,100405.5,0.3,0.3,11.5,13.01991375,0.8,50
+28,h. luis negreiros: B2,h. luis negreiros,callao,-12.015829,-77.098064,LFM_H3_DNOss,"emergencia, hospitalizacion, cirugia",3,2243.5,100405.5,0.3,0.3,11.5,13.01991375,0.8,50
+29,h. marino molina: C,h. marino molina,comas,-11.94368,-77.057763,MCF_H1_DNO,emergencia,2,5320.5,179649.5,0.3,0.6,20.5,4.049086758,0.8,88
+30,h. marino molina: E,h. marino molina,comas,-11.94368,-77.057763,LFM_H3_DNOss,"hospitalizacion, cirugia",2,5320.5,179649.5,0.3,0.6,20.5,4.049086758,0.8,88
+31,h. octavio mongrut: E,h. octavio mongrut,san miguel,-12.065804,-77.094444,MCF_H1_DNO,"hospitalizacion, cirugia",1,2760,72339,0.3,0.3,8.3,28.57648402,0.8,36
+32,h. de vitarte: A,h. de vitarte,ate,-12.027114,-76.923822,MCF_H2_DNO,"hospitalizacion y consultoria externa, cirugia, uci",10,3612,94673,0.3,0.4,10.8,3.739916286,0.8,47
+33,h. angamos: A,h. angamos,miraflores,-12.113467,-77.028118,LFM_H7_DNOss,"hospitalizacion, admision, cirugia",7,5004,175283,0.3,0.6,20,9.80033703,0.8,86
+36,h. aurelio diaz ufano: D,h. aurelio diaz ufano,san juan de lurigancho,-11.968696,-76.99547,MCF_H1_DNO,emergencia,4,6856,132666,0.3,0.8,15.1,13.27264079,0.8,67
+37,h. jorge voto bernales: B,h. jorge voto bernales,santa anita,-12.04648,-76.947443,LFM_H3_DNOss,"consultorios y hospitalizacion, cirugia",2,669.5,38146,0.3,0.1,4.4,7.384988584,0.8,19
+38,h. jorge voto bernales: C,h. jorge voto bernales,santa anita,-12.04648,-76.947443,LFM_H2_DNOss,"consultorios y hospitalizacion, cirugia",2,669.5,38146,0.3,0.1,4.4,7.384988584,0.8,19
+43,h. carlos alcantara: C,h. carlos alcantara,la molina,-12.062106,-76.945547,MCF_H1_DNO,emergencia,8,1514,102134,0.3,0.2,11.7,4.929984779,0.8,50
+44,h. uldarico rocca: B,h. uldarico rocca,villa el salvador,-12.211443,-76.932109,LFM_H1_DNOss,emergencia,4,3006,92188,0.3,0.3,10.5,9.055745814,0.8,45
+46,hospital guillermo kaelin de la fuente: A,hospital guillermo kaelin de la fuente,villa maria del triunfo,-12.1778773,-76.94093479,LWAL_H5_DUC,"hospitalizacion, uci, sala de operaciones",7,34026,76712.33333,0.3,3.9,8.8,6.019696311,0.8,53
+47,hospital guillermo kaelin de la fuente: B,hospital guillermo kaelin de la fuente,villa maria del triunfo,-12.1778773,-76.94093479,LWAL_H5_DUC,"hospitalizacion, uci, sala de operaciones",7,34026,76712.33333,0.3,3.9,8.8,6.019696311,0.8,53
+48,hospital guillermo kaelin de la fuente: C,hospital guillermo kaelin de la fuente,villa maria del triunfo,-12.1778773,-76.94093479,LWAL_H6_DUC,"hospitalizacion, uci, sala de operaciones",7,34026,76712.33333,0.3,3.9,8.8,6.019696311,0.8,53
+49,hospital ii ramon castilla: B,hospital ii ramon castilla,lima,-12.04474006,-77.04403185,LFM_H2_DNOdd,"hospitalizacion, uci, sala de operaciones",4,4233,87726,0.3,0.5,10,8.748002283,0.8,44
